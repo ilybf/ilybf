@@ -55,7 +55,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilybf&show_icons=true&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilybf&theme=tokyonight" />
 </p>
 
 ---
